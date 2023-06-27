@@ -18,7 +18,7 @@ Removed *Null Values*
 
 
 <img src =
-"https://github.com/mckolu/excel-project/blob/main/excel_screenshot.png?raw=true" width="350" height="auto" align="right"/>
+"https://github.com/mckolu/excel-project/blob/main/excel_screenshot.png?raw=true" />
 
 
 
