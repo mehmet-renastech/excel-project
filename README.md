@@ -1,3 +1,6 @@
+<img src =
+"https://github.com/mckolu/excel-project/blob/main/excel_screenshot.png?raw=true" />
+
 # Excel-Project
 This is my bootcamp excel project.
 
@@ -17,8 +20,7 @@ Removed *Null Values*
 <a href="https://www.tableau.com/academic/students#form">See my Tableau projects</a>
 
 
-<img src =
-"https://github.com/mckolu/excel-project/blob/main/excel_screenshot.png?raw=true" />
+
 
 
 
