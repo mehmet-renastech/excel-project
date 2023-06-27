@@ -5,7 +5,6 @@ This is my bootcamp excel project.
   <li>Data Cleaning</li>
   <li>Data Overview</li>
   <li>Data Analysis</li>
-  <li>Results</li>
 </ol>
 
 ## Data Cleaning
